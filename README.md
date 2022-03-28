@@ -12,7 +12,7 @@ The ScrabbleGAN program from https://github.com/Nikolai10/scrabble-gan is used f
 
 ## Run demo
 
-Scan a paper with text and put into the segmentation.m script. Then create labels by running the create_labels.py script.
+Scan a paper with text and put into the *segmentation.m* script. Then create labels by running the *create_labels.py* script.
 
 Some basic Git commands are:
 ```
