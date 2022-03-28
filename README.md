@@ -1,5 +1,5 @@
 # Handwriting recognition of Swedish text
-## Project in Embedded Systems (15 hp) Uppsala University
+## Project in Embedded Systems (15 hp), Uppsala University
 ###### Co-author: Christian Böhme
 ###### Supervisor: Ping Wu
 
