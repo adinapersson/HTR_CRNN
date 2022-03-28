@@ -1,4 +1,4 @@
-% Segmentation and preprocessing of the Swedish data (swe_segmented is used in augmentation.m)
+% Segmentation and preprocessing (withpout rescaling and padding) of the Swedish data (swe_segmented is used in augmentation.m)
 close all;
 
 mkdir("swe_segmented");
