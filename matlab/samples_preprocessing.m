@@ -1,8 +1,8 @@
-% Segmentation and preprocessing of test samples
+% Segmentation and preprocessing of classification samples
 close all;
 
 cropSize = [32,128];
-C = imread('swe_test/test_er.png');
+C = imread('classification_samples/test_er.png');
 
 % Inverting
 C = 255-C;
