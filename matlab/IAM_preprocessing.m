@@ -1,4 +1,4 @@
-% Create folder for the processed data
+% Preprocessing of the IAM data
 cropSize = [32,128];
  
 tic
