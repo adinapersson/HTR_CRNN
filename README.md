@@ -14,5 +14,7 @@ Data preprocessing through image analysis is implemented in MATLAB and all files
 
 ## Instructions
 
-Scan a paper with text and run ```segmentation.m``` with it to segment the words. Create labels by running ```createWords_swe.py```. Then 
+* ```swe_segmentation.m``` segments words from an image with handwritten text. Define the images that should be segmented as well as set *dil_size* (the dilation factor) to a suiting value. 
+
+* ```createWords_swe.py``` creates correct labels for the segmented words. These labels are to be put into ```words.txt```.
 
