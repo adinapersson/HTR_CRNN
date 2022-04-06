@@ -9,7 +9,7 @@ A Handwritten Text Recognition (HTR) system implemented in Python with TensorFlo
 
 The ScrabbleGAN program from https://github.com/Nikolai10/scrabble-gan is used for creating our own Swedish dataset. 
 
-Data preprocessing is implemented in MATLAB.
+Data preprocessing through image analysis is implemented in MATLAB.
 
 
 ## Run demo
