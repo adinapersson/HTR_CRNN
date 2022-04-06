@@ -18,5 +18,9 @@ Data preprocessing through image analysis is implemented in MATLAB and all files
 
 * ```createWords_swe.py``` creates correct labels for the segmented words. These labels are to be put into ```words.txt```.
 
+* Download the IAM dataset, preprocess the images with ```IAM_preprocessing.m``` and put them in a folder named *words* in the *data* folder. 
+
+* New data is segmented and preprocessed with ```samples_preprocessing.m``` and put in the *words* folder as well. 
+
 * ```main.py```uses the labels in ```words.txt``` as well as the preprocessed images in the *words* folder.
 
