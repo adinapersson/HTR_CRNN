@@ -18,3 +18,5 @@ Data preprocessing through image analysis is implemented in MATLAB and all files
 
 * ```createWords_swe.py``` creates correct labels for the segmented words. These labels are to be put into ```words.txt```.
 
+* ```main.py```uses ```words.txt```.
+
